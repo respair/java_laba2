@@ -1,4 +1,5 @@
 
+//Здесь старый вариант выполнения заданий, поэтому перейдите к NewMain!!!!!!!!!!!!!!!!!!!!!!
 
 public class Main {
     static int depthOfChild(Tree.Node node, int depth) {
